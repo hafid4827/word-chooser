@@ -1,0 +1,4 @@
+pagina practica
+https://es.wikwik.org/todaspalabrastam.htm
+documentacion de una de la librerias
+https://beautiful-soup-4.readthedocs.io/en/latest/#searching-the-tree
